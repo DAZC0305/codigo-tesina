@@ -1,0 +1,7 @@
+"Prueba","Estadistico","p_valor"
+"Multicolinealidad (GVIF ajustado)","Máx. GVIF^(1/2df) = 1.209","-"
+"Heterocedasticidad (Breusch-Pagan)","BP = 52.316","0.000002486"
+"Homogeneidad 2024 (elasticidad)","F = 0.711","0.3992"
+"Participación 2024 vs 2022","Z = 21.52","< 0.00000000000000022"
+"Curvatura de Engel","b2 = 0.0679","0.0002433"
+"Robustez: educación como años","β = 0.0162","-"

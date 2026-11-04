@@ -1,0 +1,4 @@
+"Variable","Probit_con","Probit_sin","Loglin_con","Loglin_sin"
+"ln_ingreso_real",0.2758,0.2705,0.6144,0.5939
+"post_pandemia",0.7318,0.5378,0.9254,0.441
+"ln_ingreso_real:post_pandemia",-0.044,-0.0507,-0.0759,-0.033

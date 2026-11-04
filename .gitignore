@@ -1,0 +1,17 @@
+# === DATOS CRUDOS (No subir a GitHub) ===
+data/ENIGH/
+data/*.xls
+data/*.csv
+*.RData
+
+# === BASURA DE R ===
+.Rhistory
+.Rapp.history
+.Rproj.user/
+.Renvironment
+
+# === SISTEMA ===
+.DS_Store
+Thumbs.db
+
+data/processed/
